@@ -1,0 +1,6 @@
+Lista Pizze
+
+01 Margherita      (pomodoro, mozzarella, basilico, olio)      5.00 euro
+02 Marinara        (pomodoro, aglio, olio)                     4.00 euro
+03 Crostino        (prociutto cotto, mozzarella, olio)         6.00 euro
+04 Boscaiola       (funghi, salsiccia, mozzarella, olio)       6.50 euro
